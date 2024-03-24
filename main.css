@@ -1,0 +1,42 @@
+
+.box-intro {
+    display: flex;
+    justify-content: center;
+}
+.arif1 {
+color: orange;
+}
+.box-one {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.img1 {
+    width: 500px;
+    height: 300px;
+}
+.arif-text-box {
+    color: rgb(96, 124, 55);
+}
+.box-two {
+    display: flex;
+    justify-content: space-around;
+}
+.arif-text-box2 {
+    color: deepskyblue;
+}
+.img2 {
+    width: 500px;   
+    height: 300px;
+}
+.box-three {
+    display: flex;
+    justify-content: space-around;
+}
+.img3 {
+    width: 500px;   
+    height: 300px;
+}
+.arif-text-box3 {
+    color: gold;
+}
